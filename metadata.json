@@ -1,0 +1,7 @@
+{
+  "name": "SonicMapper: Interactive Instrument Hotspots",
+  "description": "Upload an instrument image, map hotspots, and assign AI-generated sounds to create a playable digital instrument.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
